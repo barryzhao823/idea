@@ -1,0 +1,89 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
+  <action id="ChangesView.Refresh">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
+  <action id="GuiDesigner.QuickJavadoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="Maven.ExecuteGoal">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="Maven.Reimport">
+    <keyboard-shortcut first-keystroke="ctrl windows" />
+  </action>
+  <action id="MaximizeEditorInSplit">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="MethodDown" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="NextTab" />
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="RearrangeCode">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+  </action>
+  <action id="ShowContent" />
+  <action id="ShowSearchHistory" />
+  <action id="SmartSelect" />
+  <action id="SonarLint.AnalyzeFiles">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="StretchSplitToLeft">
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
+  <action id="StretchSplitToRight">
+    <keyboard-shortcut first-keystroke="alt period" />
+  </action>
+  <action id="Synchronize">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="TableResult.GrowSelection" />
+  <action id="UsageView.ShowRecentFindUsages" />
+  <action id="Vcs.Log.ShowTooltip">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.ToggleAmendCommitMode" />
+  <action id="com.sburlyaev.cmd.plugin.actions.OpenTerminal">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="context.save" />
+  <action id="newConfigurationDebugClass">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+</keymap>

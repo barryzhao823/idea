@@ -1,0 +1,9 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Language injection/Uninject language or reference" />
+    <ignoreAction name="Properties/Strings/Copy the value of the property to the clipboard" />
+    <ignoreAction name="Java/Refactorings/Encapsulate field" />
+    <ignoreAction name="XML/Convert text to CDATA" />
+    <ignoreAction name="Language injection/Inject language or reference" />
+  </component>
+</application>

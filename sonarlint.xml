@@ -1,0 +1,27 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="secretsNeverBeenAnalysed" value="false" />
+    <rules>
+      <Rule active="false" key="java:S1874" />
+      <Rule active="false" key="java:S1133" />
+      <Rule active="false" key="java:S2629" />
+      <Rule active="false" key="java:S1192" />
+      <Rule active="false" key="java:S2095" />
+      <Rule active="false" key="java:S3252" />
+      <Rule active="false" key="java:S2153" />
+      <Rule active="false" key="java:S2142" />
+      <Rule active="false" key="java:S107" />
+      <Rule active="false" key="java:S3011" />
+      <Rule active="false" key="java:S4488" />
+      <Rule active="false" key="java:S2386" />
+      <Rule active="false" key="java:S2222" />
+      <Rule active="false" key="java:S3740" />
+      <Rule active="false" key="java:S5411" />
+      <Rule active="false" key="java:S2696" />
+      <Rule active="false" key="java:S3457" />
+      <Rule active="false" key="java:S2864" />
+      <Rule active="false" key="java:S1149" />
+    </rules>
+  </component>
+</application>

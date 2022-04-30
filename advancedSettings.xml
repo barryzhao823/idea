@@ -1,0 +1,12 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="confirm.rerun.with.termination" value="false" />
+        <entry key="ide.max.recent.projects" value="100" />
+        <entry key="temporary.configurations.limit" value="10" />
+        <entry key="terminal.buffer.max.lines.count" value="10000" />
+      </map>
+    </option>
+  </component>
+</application>
