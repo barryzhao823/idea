@@ -18,6 +18,9 @@
   </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
+  <action id="ExternalSystem.ProjectRefreshAction">
+    <keyboard-shortcut first-keystroke="meta z" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
