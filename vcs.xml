@@ -378,6 +378,10 @@
           <option name="url" value="https://code.xgimi.com/gm-info-base/xgimi-lift-app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.xgimi.com/app-cms/app-cms-manager-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
