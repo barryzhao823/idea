@@ -5,4 +5,7 @@
   <action id="Maven.Reimport">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt dead_grave" />
+  </action>
 </keymap>
