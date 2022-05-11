@@ -6,6 +6,6 @@
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="SelectInProjectView">
-    <keyboard-shortcut first-keystroke="alt dead_grave" />
+    <keyboard-shortcut first-keystroke="meta escape" />
   </action>
 </keymap>
