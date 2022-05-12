@@ -1,6 +1,6 @@
 <scheme name="Tomorrow Night Eighties" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="CONSOLE_FONT_NAME" value="InputMono" />
+  <option name="CONSOLE_FONT_NAME" value="Ubuntu" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="0.9" />
