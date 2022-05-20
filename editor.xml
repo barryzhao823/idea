@@ -11,6 +11,25 @@
     <option name="HIGHLIGHT_SCOPE" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="problems" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="inheritors" />
+        <option value="problems" />
+        <option value="references" />
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
+    <option name="enabled" value="false" />
+  </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="100" />
   </component>
@@ -54,7 +73,41 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="MarkdownTableInlayProviderSettingsKey" />
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="Groovy.groovy.implicit.null.argument.hint" />
+        <option value="Groovy.groovy.parameters.hints" />
+        <option value="Groovy.groovy.variable.type.hints" />
+        <option value="JAVA.annotation.hints" />
+        <option value="JAVA.chain.hints" />
+        <option value="JAVA.java.implicit.types" />
+        <option value="Markdown.MarkdownTableInlayProviderSettingsKey" />
+        <option value="kotlin.kotlin.call.chains.hints" />
+        <option value="kotlin.kotlin.lambdas.hints" />
+        <option value="kotlin.kotlin.ranges.hints" />
+        <option value="kotlin.kotlin.references.types.hints" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="" />
+    <settingsMapElement>
+      <Groovy.groovy.parameters.hints>
+        <Settings>
+          <option name="showInferredParameterTypes" value="false" />
+          <option name="showTypeParameterList" value="false" />
+        </Settings>
+      </Groovy.groovy.parameters.hints>
+      <JAVA.annotation.hints>
+        <Settings>
+          <option name="showExternal" value="false" />
+        </Settings>
+      </JAVA.annotation.hints>
+      <kotlin.kotlin.lambdas.hints>
+        <Settings>
+          <option name="implicitReceiversAndParams" value="false" />
+          <option name="returnExpressions" value="false" />
+        </Settings>
+      </kotlin.kotlin.lambdas.hints>
+    </settingsMapElement>
   </component>
   <component name="SqlCodeCompletionSettings" AUTO_ALIAS_TABLE="true">
     <option name="autoAliasTable" value="true" />
