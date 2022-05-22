@@ -4,10 +4,11 @@
     <property name="created">2021-03-18T09:34:28</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.3.1.0.0</property>
-    <property name="modified">2022-03-31T17:39:35</property>
+    <property name="modified">2022-05-22T20:13:09</property>
     <property name="originalScheme">Gruvbox Dark Medium</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="InputMono" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
@@ -232,7 +233,6 @@
       <value>
         <option name="FOREGROUND" value="83a598" />
         <option name="EFFECT_COLOR" value="83a598" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -376,6 +376,11 @@
         <option name="FOREGROUND" value="83a598" />
       </value>
     </option>
+    <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="fbf1c7" />
@@ -394,7 +399,6 @@
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
         <option name="FOREGROUND" value="fabd2f" />
-        <option name="EFFECT_COLOR" value="fabd2f" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -454,6 +458,16 @@
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
         <option name="FOREGROUND" value="d3869b" />
+      </value>
+    </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_REASSIGNED_PARAMETER">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
