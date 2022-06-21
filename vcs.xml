@@ -450,6 +450,10 @@
           <option name="url" value="https://gitlab.xgimi.com/business_base/permission-center.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.xgimi.com/center/trade-gateway.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
