@@ -23,6 +23,7 @@
       <w>objectclass</w>
       <w>parentid</w>
       <w>querystring</w>
+      <w>rejct</w>
       <w>simplelist</w>
       <w>ucenter</w>
       <w>uids</w>
