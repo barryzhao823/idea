@@ -8,6 +8,7 @@
       <w>cors</w>
       <w>cuser</w>
       <w>dubbo</w>
+      <w>formated</w>
       <w>fuzzysearch</w>
       <w>gimi</w>
       <w>gimier</w>
@@ -23,6 +24,7 @@
       <w>objectclass</w>
       <w>parentid</w>
       <w>querystring</w>
+      <w>rejct</w>
       <w>simplelist</w>
       <w>ucenter</w>
       <w>uids</w>
