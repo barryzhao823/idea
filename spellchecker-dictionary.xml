@@ -29,6 +29,7 @@
       <w>parentid</w>
       <w>querystring</w>
       <w>rejct</w>
+      <w>reqs</w>
       <w>setnx</w>
       <w>simplelist</w>
       <w>taobao</w>
