@@ -408,6 +408,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.github.dinbtechit.vscodetheme">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.github.kropp.intellij.theme.ubuntu">
           <value>
             <PluginData>
@@ -865,6 +876,7 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
