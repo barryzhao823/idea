@@ -348,6 +348,19 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.brandiico.jetbrains-nightfall-theme">
+          <value>
+            <PluginData>
+              <option name="category" value="UI" />
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.chrisrm.idea.MaterialThemeUI">
           <value>
             <PluginData>
@@ -400,6 +413,17 @@
           <value>
             <PluginData>
               <option name="category" value="UI" />
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.github.dinbtechit.vscodetheme">
+          <value>
+            <PluginData>
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.platform" />
@@ -498,6 +522,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.httpriestess.base16-tomorrow-dark">
+          <value>
+            <PluginData>
+              <option name="category" value="UI" />
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.intellij.gradle">
           <value>
             <PluginData>
@@ -532,6 +568,18 @@
                 </set>
               </option>
               <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.jakecoffman.theme">
+          <value>
+            <PluginData>
+              <option name="category" value="UI" />
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
@@ -591,6 +639,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.jgentil.theme.darcula_blacker">
+          <value>
+            <PluginData>
+              <option name="category" value="UI" />
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.jiyuanime.ActivatePowerModeApplicationPlugin">
           <value>
             <PluginData>
@@ -617,6 +677,18 @@
         <entry key="com.markskelton.one-dark-theme">
           <value>
             <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.proteo.intellij.burnt">
+          <value>
+            <PluginData>
+              <option name="category" value="UI" />
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.platform" />
@@ -818,6 +890,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="io.github.xiaopihai7256">
+          <value>
+            <PluginData>
+              <option name="category" value="UI" />
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="lermitage.intellij.extra.icons">
           <value>
             <PluginData>
@@ -865,6 +949,7 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
