@@ -9,27 +9,35 @@
       <w>backgroud</w>
       <w>caculate</w>
       <w>cainiao</w>
+      <w>cibnfourk</w>
       <w>corpid</w>
       <w>cors</w>
       <w>cuser</w>
       <w>dewu</w>
       <w>dubbo</w>
+      <w>efun</w>
       <w>formated</w>
       <w>fuzzysearch</w>
       <w>gimi</w>
       <w>gimier</w>
+      <w>gmax</w>
       <w>groupid</w>
       <w>groupname</w>
       <w>gvalue</w>
       <w>hoster</w>
+      <w>huanxi</w>
       <w>imeis</w>
       <w>infos</w>
+      <w>iqiyi</w>
+      <w>iqiyijishu</w>
       <w>kwai</w>
       <w>kwaishop</w>
       <w>maindata</w>
+      <w>mangguo</w>
       <w>mongo</w>
       <w>mutipul</w>
       <w>nacos</w>
+      <w>newmangguo</w>
       <w>objectclass</w>
       <w>parentid</w>
       <w>projectlombok</w>
@@ -39,7 +47,9 @@
       <w>reqs</w>
       <w>rspro</w>
       <w>setnx</w>
+      <w>sikai</w>
       <w>simplelist</w>
+      <w>souhu</w>
       <w>sumary</w>
       <w>taobao</w>
       <w>ucenter</w>
@@ -47,6 +57,7 @@
       <w>userlist</w>
       <w>vender</w>
       <w>xgimi</w>
+      <w>youku</w>
     </words>
   </component>
 </application>
