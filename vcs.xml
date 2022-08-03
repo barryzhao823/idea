@@ -622,6 +622,10 @@
           <option name="url" value="https://code.xgimi.com/push/push-center.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.xgimi.com/push/touch-manager-gateway.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
