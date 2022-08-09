@@ -137,6 +137,7 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -355,6 +356,17 @@
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.cap.plugin.elasticsearch.client">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
@@ -887,7 +899,6 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -957,6 +968,18 @@
         <entry key="net.hexar.json2pojo">
           <value>
             <PluginData />
+          </value>
+        </entry>
+        <entry key="org.elasticsearch4idea">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
           </value>
         </entry>
         <entry key="org.intellij.groovy">
