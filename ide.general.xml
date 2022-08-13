@@ -17,6 +17,7 @@
       <map>
         <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="Memory" value="true" />
+        <entry key="ReadOnlyAttribute" value="false" />
         <entry key="git" value="true" />
         <entry key="io.unthrottled.doki.ui.status.StatusBarFactory" value="false" />
       </map>
