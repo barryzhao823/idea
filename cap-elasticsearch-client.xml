@@ -1,0 +1,23 @@
+<application>
+  <component name="CapPluginsElasticsearchClientSetting">
+    <option name="elasticsearchClusters">
+      <map>
+        <entry key="es6-cms-service">
+          <value>
+            <map>
+              <entry key="cluster_name" value="es6-cms-service" />
+              <entry key="keyStorePassword" value="" />
+              <entry key="keyStorePath" value="" />
+              <entry key="password" value="ISyFvse6Q0mnLmS4" />
+              <entry key="selfSigned" value="false" />
+              <entry key="trustStorePassword" value="" />
+              <entry key="trustStorePath" value="" />
+              <entry key="url" value="http://es-cn-zvp2kizsd000ebgsu.elasticsearch.aliyuncs.com:9200" />
+              <entry key="user" value="elastic" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
