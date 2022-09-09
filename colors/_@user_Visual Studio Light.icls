@@ -4,14 +4,12 @@
     <property name="created">2022-02-18T09:44:16</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-03-26T20:28:50</property>
+    <property name="modified">2022-09-07T15:17:23</property>
     <property name="originalScheme">Visual Studio Light</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.15" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="CONSOLE_LINE_SPACING" value="1.15" />
   <colors>
     <option name="CARET_ROW_COLOR" value="fafadb" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
@@ -497,12 +495,6 @@
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="0" />
-      </value>
-    </option>
-    <option name="TEXT">
-      <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
