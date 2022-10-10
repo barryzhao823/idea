@@ -718,6 +718,10 @@
           <option name="url" value="https://gitlab.xgimi.com/xgimi-Informatization-fwk/gm-info-common.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.xgimi.com/center/order-inner.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
