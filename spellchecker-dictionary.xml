@@ -3,6 +3,7 @@
     <words>
       <w>accesskey</w>
       <w>accesslog</w>
+      <w>addr</w>
       <w>aftersale</w>
       <w>aggr</w>
       <w>aiaudits</w>
@@ -37,6 +38,7 @@
       <w>objectclass</w>
       <w>paginator</w>
       <w>parentid</w>
+      <w>presell</w>
       <w>projectlombok</w>
       <w>qinglong</w>
       <w>querystring</w>
