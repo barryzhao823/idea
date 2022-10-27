@@ -762,6 +762,10 @@
           <option name="url" value="https://code.xgimi.com/center/xgimi-trade-job.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.xgimi.com/marketing-center/marketing-center-inner.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
