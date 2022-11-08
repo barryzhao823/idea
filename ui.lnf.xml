@@ -3,7 +3,6 @@
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="compactTreeIndents" value="true" />
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
-    <option name="DISABLE_MNEMONICS" value="false" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="100" />
     <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
