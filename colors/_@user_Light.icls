@@ -3,7 +3,7 @@
     <property name="created">2022-10-27T08:53:56</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-10-27T16:28:49</property>
+    <property name="modified">2022-11-08T14:31:22</property>
     <property name="originalScheme">Light</property>
   </metaInfo>
   <colors>
@@ -44,7 +44,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="74118c" />
@@ -60,8 +60,8 @@
         <option name="FOREGROUND" value="800000" />
       </value>
     </option>
-    <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="DEFAULT_NUMBER" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="174ad4" />
