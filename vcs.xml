@@ -758,6 +758,26 @@
           <option name="url" value="https://code.xgimi.com/mall/mall-mixture-inner.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.xgimi.com/center/xgimi-trade-job.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.xgimi.com/marketing-center/marketing-center-inner.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.xgimi.com/mall/mall-mixes-center.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.xgimi.com/mall/mall-mixes-inner.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code.xgimi.com/goods-v2/goods-core-gateway-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
