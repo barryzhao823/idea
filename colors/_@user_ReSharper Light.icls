@@ -4,7 +4,7 @@
     <property name="created">2022-05-21T13:32:43</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-05-21T15:35:18</property>
+    <property name="modified">2022-10-27T16:28:49</property>
     <property name="originalScheme">ReSharper Light</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="SF Mono" />
@@ -35,10 +35,10 @@
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="888899c0" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="88889940" />
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="e8e8e80" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="8e8e80" />
     <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="88889940" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="88889940" />
-    <option name="ScrollBar.Mac.Transparent.trackColor" value="e8e8e80" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="8e8e80" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="888899c0" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="88889940" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="e8e8e8" />
@@ -47,10 +47,10 @@
     <option name="ScrollBar.Mac.trackColor" value="e8e8e8" />
     <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="888899c0" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="88889940" />
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="e8e8e80" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="8e8e80" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="88889940" />
     <option name="ScrollBar.Transparent.thumbColor" value="88889940" />
-    <option name="ScrollBar.Transparent.trackColor" value="e8e8e80" />
+    <option name="ScrollBar.Transparent.trackColor" value="8e8e80" />
     <option name="ScrollBar.background" value="e8e8e8" />
     <option name="ScrollBar.hoverThumbBorderColor" value="888899c0" />
     <option name="ScrollBar.hoverThumbColor" value="88889940" />
@@ -355,11 +355,6 @@
         <option name="FOREGROUND" value="1f377f" />
       </value>
     </option>
-    <option name="DEFAULT_METADATA">
-      <value>
-        <option name="FOREGROUND" value="3381ff" />
-      </value>
-    </option>
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -447,6 +442,41 @@
       <value>
         <option name="BACKGROUND" value="dbe0cc" />
         <option name="ERROR_STRIPE_COLOR" value="8995a6" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="f4f5fb" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="f0fbf7" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="f9fcf5" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="fff8f3" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="fff1f0" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="ffebec" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="d9bcbc" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -756,18 +786,6 @@
         <option name="ERROR_STRIPE_COLOR" value="9eff" />
       </value>
     </option>
-    <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="FONT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="TEXT">
-      <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ffffff" />
-      </value>
-    </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="f6b94d" />
@@ -811,6 +829,6 @@
         <option name="FOREGROUND" value="800006" />
       </value>
     </option>
-    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XPATH.KEYWORD" baseAttributes="" />
   </attributes>
 </scheme>

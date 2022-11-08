@@ -4,7 +4,7 @@
     <property name="created">2022-09-08T09:52:32</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2022.1.4.0.0</property>
-    <property name="modified">2022-10-16T20:18:59</property>
+    <property name="modified">2022-10-27T16:28:49</property>
     <property name="originalScheme">Catppuccin</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -120,7 +120,7 @@
         <option name="FOREGROUND" value="89dceb" />
       </value>
     </option>
-    <option name="BASH.EXTERNAL_COMMAND" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="BASH.EXTERNAL_COMMAND" baseAttributes="" />
     <option name="BASH.FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="89dceb" />
@@ -143,7 +143,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
+    <option name="BASH.SHEBANG" baseAttributes="" />
     <option name="BLADE_DIRECTIVE">
       <value>
         <option name="FOREGROUND" value="ddb6f2" />
@@ -651,7 +651,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="" />
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f8bd96" />
@@ -670,9 +670,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="Class" baseAttributes="" />
     <option name="Clojure Atom">
       <value>
         <option name="FOREGROUND" value="ddb6f2" />
@@ -786,8 +786,8 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEBUGGER_SMART_STEP_INTO_SELECTION" baseAttributes="LIVE_TEMPLATE_ATTRIBUTES" />
-    <option name="DEBUGGER_SMART_STEP_INTO_TARGET" baseAttributes="SEARCH_RESULT_ATTRIBUTES" />
+    <option name="DEBUGGER_SMART_STEP_INTO_SELECTION" baseAttributes="" />
+    <option name="DEBUGGER_SMART_STEP_INTO_TARGET" baseAttributes="" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="fae3b0" />
@@ -1334,6 +1334,41 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="37384a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="353c47" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="3b3d45" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="403a44" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="403542" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="40303f" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="3c1f2a" />
+      </value>
+    </option>
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="fae3b0" />
@@ -1517,7 +1552,7 @@
         <option name="FOREGROUND" value="f28fad" />
       </value>
     </option>
-    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
+    <option name="KOTLIN_LABEL" baseAttributes="" />
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -1528,7 +1563,7 @@
         <option name="FOREGROUND" value="f8bd96" />
       </value>
     </option>
-    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="" />
     <option name="KOTLIN_QUEST">
       <value>
         <option name="FOREGROUND" value="f8bd96" />
@@ -1545,7 +1580,7 @@
         <option name="FOREGROUND" value="ddb6f2" />
       </value>
     </option>
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="" />
     <option name="KOTLIN_VARIABLE_AS_FUNCTION">
       <value>
         <option name="FOREGROUND" value="96cdfb" />
@@ -2004,8 +2039,8 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.KEY" baseAttributes="" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
     <option name="PROPERTIES.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="96cdfb" />
@@ -2781,7 +2816,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static method access" baseAttributes="" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="f8bd96" />
@@ -2959,8 +2994,8 @@
         <option name="FOREGROUND" value="abe9b3" />
       </value>
     </option>
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
+    <option name="YAML_ANCHOR" baseAttributes="" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="b5e8e0" />
