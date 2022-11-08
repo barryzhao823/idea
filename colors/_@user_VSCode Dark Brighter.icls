@@ -3,7 +3,7 @@
     <property name="created">2022-10-17T19:27:08</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-10-18T09:05:15</property>
+    <property name="modified">2022-10-27T16:28:49</property>
     <property name="originalScheme">VSCode Dark Brighter</property>
   </metaInfo>
   <colors>
@@ -50,7 +50,7 @@
         <option name="FOREGROUND" value="c586c0" />
       </value>
     </option>
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
+    <option name="BASH.SHEBANG" baseAttributes="" />
     <option name="BASH.VAR_DEF">
       <value>
         <option name="FOREGROUND" value="d3d3c8" />
@@ -544,6 +544,41 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="303640" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="2e3a3d" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="343b3b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="39373a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="393237" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="392e35" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="361d21" />
+      </value>
+    </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value />
     </option>
@@ -689,8 +724,8 @@
         <option name="FOREGROUND" value="47ccb1" />
       </value>
     </option>
-    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="" />
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="" />
     <option name="MARKDOWN_AUTO_LINK">
       <value>
         <option name="EFFECT_COLOR" value="d4d4d4" />
@@ -913,10 +948,10 @@
         <option name="FOREGROUND" value="94dbfd" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
-    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.KEY" baseAttributes="" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="47ccb1" />
@@ -1038,8 +1073,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
-    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
+    <option name="Static method access" baseAttributes="" />
     <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
       <value>
         <option name="BACKGROUND" value="323333" />
@@ -1130,7 +1164,7 @@
     </option>
     <option name="XML_TAG_DATA" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="XPATH.KEYWORD" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
   </attributes>
 </scheme>
