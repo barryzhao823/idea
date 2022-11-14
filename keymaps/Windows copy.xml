@@ -19,7 +19,7 @@
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
   <action id="ExternalSystem.ProjectRefreshAction">
-    <keyboard-shortcut first-keystroke="meta z" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
@@ -72,9 +72,7 @@
   <action id="StretchSplitToRight">
     <keyboard-shortcut first-keystroke="alt period" />
   </action>
-  <action id="Synchronize">
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
+  <action id="Synchronize" />
   <action id="TableResult.GrowSelection" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.Log.ShowTooltip">
