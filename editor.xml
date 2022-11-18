@@ -65,6 +65,7 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc;*.java;*.xml;*.properties;*.vue;*.js;*.html;*.css" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="TOOLTIPS_DELAY_MS" value="10" />
+    <option name="SHOW_INTENTION_BULB" value="false" />
     <option name="CARET_BLINKING_PERIOD" value="200" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
