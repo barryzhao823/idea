@@ -3,7 +3,7 @@
     <property name="created">2021-07-12T21:27:51</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.3.0.0</property>
-    <property name="modified">2022-11-21T11:58:00</property>
+    <property name="modified">2022-11-21T15:58:13</property>
     <property name="originalScheme">Xcode Dark</property>
   </metaInfo>
   <colors>
@@ -674,7 +674,7 @@
     <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="96d0ff" />
+        <option name="FOREGROUND" value="fbf1c7" />
         <option name="BACKGROUND" value="292a2f" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
