@@ -16,6 +16,7 @@
       <w>cuser</w>
       <w>dewu</w>
       <w>dubbo</w>
+      <w>extention</w>
       <w>formated</w>
       <w>fuzzysearch</w>
       <w>gimi</w>
@@ -24,6 +25,7 @@
       <w>groupname</w>
       <w>gvalue</w>
       <w>hrdata</w>
+      <w>imadcn</w>
       <w>imeis</w>
       <w>infos</w>
       <w>infras</w>
@@ -49,12 +51,14 @@
       <w>reqs</w>
       <w>setnx</w>
       <w>simplelist</w>
+      <w>superapp</w>
       <w>taobao</w>
       <w>ucenter</w>
       <w>uids</w>
       <w>userlist</w>
       <w>vender</w>
       <w>volumn</w>
+      <w>wxacodeunlimit</w>
       <w>xgimi</w>
       <w>xnzc</w>
     </words>

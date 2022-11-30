@@ -3,7 +3,7 @@
     <property name="created">2021-07-12T21:27:51</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.3.0.0</property>
-    <property name="modified">2022-03-26T20:28:50</property>
+    <property name="modified">2022-11-21T11:59:05</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
   <colors>
@@ -177,7 +177,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a4a5a7" />
+        <option name="FOREGROUND" value="fbf1c7" />
         <option name="BACKGROUND" value="494a4f" />
       </value>
     </option>
@@ -263,6 +263,9 @@
         <option name="FOREGROUND" value="fd8273" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="d9c880" />
@@ -341,12 +344,13 @@
         <option name="FOREGROUND" value="b37eee" />
       </value>
     </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="585859" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="585859" />
-        <option name="ERROR_STRIPE_COLOR" value="585859" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -413,7 +417,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="dfdfe0" />
+        <option name="FOREGROUND" value="fbf1c7" />
         <option name="BACKGROUND" value="292a30" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
